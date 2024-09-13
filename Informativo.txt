@@ -1,0 +1,19 @@
+Projeto elaborado como 
+
+Trabalho da Cadeira de Programacao Web 
+na 
+Univercidade Politecnica.
+ Tema: Pagina e APP de Servicos de Saude da Cidade de Nampula
+Pelo Estudante: Mussa Juma Mutabele
+Codigo: 607558
+EIT-7
+
+mussajumamutabele@gmail.com
+843003819
+873003819
+
+
+Credencias Para o login administracao 
+user= admin
+senha= 0000
+
