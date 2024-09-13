@@ -1,0 +1,119 @@
+
+#welcome-content {
+color: red;
+position: absolute;
+top: 50%;
+left: 50%;
+transform: translate(-50%, -50%);
+z-index: 1;
+font-family: 'Times New Roman', Times, serif;
+text-align: center;
+}
+
+#welcome-content h1 {
+font-size: 3em;
+font-weight: 700; /* Deixar o texto mais grosso (bold) */
+margin-bottom: 20px; /* Adicionar espaço abaixo do título */
+}
+
+#welcome-content p {
+font-size: 2em;
+font-weight: 400; /* Normal (400) */
+margin-bottom: 30px; /* Adicionar espaço abaixo do parágrafo */
+}
+
+.btn-success {
+    font-family: 'Times New Roman', Times, serif; /* Aplicar fonte personalizada */
+font-weight: 700; /* Deixar o texto mais grosso (bold) */
+font-size: 1.5em;
+padding: 15px 30px; /* Ajustar o preenchimento do botão */
+}
+/* Estilos personalizados */
+body {
+    font-family: 'Times New Roman', Times, serif;
+background-color: #f8f9fa;
+color: #333;
+}
+.footer-logo {
+width: 100px; /* Ajuste conforme necessário */
+margin-top: 10px; /* Espaçamento acima do logo */
+}
+.nav-green {
+background-color: #fff; /* Cor verde mais escura para a barra de navegação superior */
+color: #1e7e34 ; /* Texto branco */
+}
+.nav-green .navbar-nav .nav-link {
+color:#1e7e34; /* Texto branco nos links */
+}
+.nav-green .navbar-nav .nav-link:hover {
+color: #ffc107; /* Cor de destaque ao passar o mouse nos links */
+}
+.nav-white {
+background-color:#1e7e34; /* Cor verde para a barra de navegação inferior */
+color: #fff ; /* Texto branco */
+}
+
+.nav-green .navbar-nav .nav-link {
+color: #1e7e34; /* Texto verde escuro */
+transition: color 0.3s; /* Transição suave para a cor do texto */
+}
+
+.nav-green .navbar-nav .nav-link {
+color: #1e7e34; /* Texto verde escuro */
+transition: color 0.3s; /* Transição suave para a cor do texto */
+}
+
+.nav-green .navbar-nav .nav-link:hover {
+color: #ff8080; /* Cor de destaque ao passar o mouse (vermelho claro) */
+}
+
+.nav-white .navbar-nav .nav-link {
+color: #fff; /* Texto branco */
+transition: color 0.3s; /* Transição suave para a cor do texto */
+}
+
+.nav-white .navbar-nav .nav-link:hover {
+color: #ff8080; /* Cor de destaque ao passar o mouse (vermelho claro) */
+}
+
+.navbar-nav .nav-link {
+padding: 5px 10px; /* Ajusta o preenchimento interno dos links */
+}
+
+.navbar-nav .nav-link:hover {
+border: 2px solid #ff8080; /* Adiciona uma borda vermelho claro ao redor ao passar o mouse */
+border-radius: 5px; /* Adiciona uma borda arredondada */
+}
+
+
+#specialties-content {
+color:#fff; /* Definir a cor do texto como preto */
+position: absolute;
+top: 50%;
+left: 50%;
+transform: translate(-50%, -50%);
+display: none;
+z-index: 1;
+font-family: 'Times New Roman', Times, serif;
+text-align: center;
+}
+
+#specialties-content h2 {
+font-size: 2em; /* Aumentar o tamanho do título */
+font-weight: 700; /* Deixar o título mais grosso (bold) */
+margin-bottom: 20px; /* Adicionar espaço abaixo do título */
+}
+
+#specialties-content p {
+font-size: 1.2em; /* Aumentar o tamanho do parágrafo */
+font-weight: 1000; /* Normal (400) */
+margin-bottom: 30px; /* Adicionar espaço abaixo do parágrafo */
+}
+
+.btn-success {
+    font-family: 'Times New Roman', Times, serif; /* Aplicar a mesma fonte personalizada */
+font-weight: 700; /* Deixar o texto do botão mais grosso (bold) */
+font-size: 1.5em; /* Aumentar o tamanho do texto do botão */
+padding: 15px 30px; /* Ajustar o preenchimento do botão */
+}
+
